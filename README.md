@@ -228,6 +228,3 @@ We welcome contributions! Please submit a pull request or open an issue to discu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-By following this README, you should be able to install the PumpDotFun SDK, run the provided examples, and understand how to set up event listeners and perform token operations.
