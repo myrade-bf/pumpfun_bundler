@@ -230,6 +230,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # 👤 Author
 
-### Telegram: [Dillon](https://t.me/[dillon130])   
-https://t.me/dillon130
+### Telegram: [Dillon](https://t.me/[SolVeerDave])   
+https://t.me/SolVeerDave
 
